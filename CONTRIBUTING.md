@@ -163,21 +163,10 @@ Nëse ka konflikte:
 
 ## 7) Dokumentimi në repo (skedarë ndihmës)
 Ky projekt kërkon që repository të përmbajë:
-- **source code** (p.sh. `main.cpp` ose `src/main.cpp`)
+- **source code** 
 - **README.md** (përshkrimi, udhëzime për nisje lokale, si kontribuohet)
-- **CONTRIBUTING.md** (ky dokument)
-- (Opsionale, por profesionale) `.gitignore`, `LICENSE`, templates / CI
-
----
-
-## 8) Checklist për dorëzim (që të marrësh pikët maksimale)
-- [ ] Repo në GitHub me **kod + README + skedarë ndihmës**
-- [ ] Minimum **2–3 branches** të përdorur realisht
-- [ ] Minimum **2–3 Pull Requests** (secili me përshkrim + testim)
-- [ ] **Commits të rregullta** (jo vetëm 1–2 commits)
-- [ ] Përdorim i qartë i **push/pull**
-- [ ] `main` kompilohet pa errors
-- [ ] Dorëzo linkun e repo-s
+- **CONTRIBUTING.md**
+-  `.gitignore`, `LICENSE`, templates / CI
 
 ---
 
