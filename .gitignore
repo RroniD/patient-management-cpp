@@ -1,0 +1,22 @@
+# Build outputs
+PatientManager
+PatientManager.exe
+app
+app.exe
+*.o
+*.obj
+*.out
+*.exe
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build directories (optional)
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
