@@ -8,9 +8,9 @@ const int MAX_PATIENTS = 50;
 const int MAX_APPS = 100;
 
 struct Patient {
-    int id;
-    string first;
-    string last;
+    int Id;
+    string First;
+    string Last;
     int age;
     string phone;
 };
